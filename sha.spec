@@ -9,7 +9,6 @@ Group:		Applications/File
 Source0:	http://www.saddi.com/software/sha/dist/%{name}-%{version}.tar.gz
 # Source0-md5:	acd674e4d518c7f67549f177264c8675
 URL:		http://hg.saddi.com/sha-asaddi
-BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
