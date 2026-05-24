@@ -3,7 +3,7 @@ Name:		sha
 # Upstream will continue in the next version
 # with the behavior of shared libraries (specifically version 1.2)
 Version:	1.0.4b
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/File
 Source0:	http://www.saddi.com/software/sha/dist/%{name}-%{version}.tar.gz
